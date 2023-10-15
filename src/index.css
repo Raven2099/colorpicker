@@ -1,0 +1,17 @@
+.center-button {
+  border-color: rgb(207, 233, 217);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20vh auto;
+  background-color: rgb(207, 255, 207);
+  color:rgb(255, 255, 255) ;
+  font-size: 3rem
+}
+
+.cent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2px; 
+}
